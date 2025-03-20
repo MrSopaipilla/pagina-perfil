@@ -1,0 +1,57 @@
+.center {
+  text-align: center;
+}
+
+.rounded {
+  border-radius: 5px;
+}
+
+.circle-avatar {
+  border-radius: 50%;
+}
+
+.white {
+  background-color: white;
+}
+
+.red {
+  background-color: rgb(255, 167, 167);
+}
+
+.green {
+  background-color: rgb(211, 255, 167);
+}
+.margin0 {
+  margin: 0px;
+}
+.padding {
+  padding: 5%;
+}
+
+
+.nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(255, 167, 167);
+  padding: 35px;
+}
+
+input {
+
+  border: 2px solid rgb(26, 121, 42);
+  border-radius: 5px;
+  padding: 5px;
+  outline-color: yellowgreen;
+}
+
+body {
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+}
